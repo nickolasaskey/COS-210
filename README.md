@@ -1,1 +1,8 @@
 # COS-210
+
+#1. The first project that we completed for this course was to create a clock that showed the time; this clock could be adjusted by adding an hour, a minute, or a second.  It displayed two separate clocks; one of which showed a 12-hour clock with an A.M or P.M, and the other was a 24-hour clock.
+#2. For this project, I felt that I had made my clock really neat; it was clean and the program had no issues no matter how hard I tried to break it while testing.  I felt like my program showed a lot of my prowess when it comes to programming.
+#3. If anything, we could add something to the clock to make it continually count up whether you add time to it or not; it would make it feel much more like a functioning clock.
+#4. The most challenging aspect to the clock in my opinion would have to be formatting.  Just making the clock appear as even as I could took the most time; the actual code for this project wasn't anything too complicated, but being able to create something as complicated as a clock can help immensely moving forward.
+#5. Again, this project, for me, boils down to the display.  Being able to format 2 clocks simulataneously next to each other, as well as another menu screen explaining what each button does shows progress and will definitely help me in the future in terms of game design.  Those skills are really important for what I want to do.
+#6. Along with using a bunch of lines of code just to get the spacing between lines down, I also used the formatting tools we learned earlier on in the zybooks assignments, where you can have C++ create a specified number of spaces and letters given a size and a character.  I also used in-line comments and methods to help organize the program so that it would be easy to read, and adapt.
